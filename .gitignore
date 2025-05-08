@@ -1,0 +1,22 @@
+# Flutter / Dart
+.dart_tool/
+build/
+.flutter-plugins
+.flutter-plugins-dependencies
+
+# IDE ayarları
+.idea/
+.vscode/
+
+# Android
+android/.gradle/
+android/app/build/
+
+# iOS
+ios/Pods/
+
+# Opsiyonel platform klasörleri (boşsa)
+linux/
+macos/
+windows/
+web/
